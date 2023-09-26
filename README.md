@@ -73,7 +73,7 @@ Show your love and support by starring ⭐ this repository. Let's make it shine 
 Prepare to embark on a journey where words take flight and creativity knows no bounds! 🌟🚀📖
 
 
-**Let's Design and Create!** 🌈
+## Let's Design and Create!** 🌈
 
 Join us in this visual storytelling adventure. Design your storybook chapter, share your creativity, and let your imagination run wild! 🚀
 
