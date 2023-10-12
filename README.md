@@ -1,40 +1,49 @@
 
 
+<div align="center">
 
-# 🎨✨ Design-a-Thon' 20 Contest : Unleash Your Creative Imagination! 🚀📖
+# 🎨 Design-a-Thon' 20 ✨: Unleash Your Creativity! 🚀
 
-[![Contributors](https://img.shields.io/badge/Contributors-4-brightgreen.svg)]()
+</div>
+<p align="center">
+  <a href="https://github.com/CodeMacrocosm/Design-a-Thon-20/stargazers">
+    <img src="https://img.shields.io/github/stars/CodeMacrocosm/Design-a-Thon-20?style=flat-square" alt="GitHub stars">
+  </a>
+  <a href="https://github.com/CodeMacrocosm/Design-a-Thon-20/network">
+    <img src="https://img.shields.io/github/forks/CodeMacrocosm/Design-a-Thon-20?style=flat-square" alt="GitHub forks">
+  </a>
+  <a href="https://github.com/codemacrocosm/Design-a-Thon-20/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/codemacrocosm/Design-a-Thon-20.svg" alt="GitHub contributors">
+  </a>
+  <img src="https://img.shields.io/github/license/CodeMacrocosm/Design-a-Thon-20" alt="GitHub">
+</p>
 
-[![Forks](https://img.shields.io/badge/Forks-11-blue.svg)]()
+<div align="center">
 
-[![Stars](https://img.shields.io/badge/Stars-10-yellow.svg)]()
+## ✨ Hall Of Fame
 
-## Welcome to the Design-a-Thon Contest, where creativity meets design in a spectacular showcase of visual storytelling! 🌟
+Thanks goes to these amazing people for their contributions 🎉🎉🎉
 
-In this distinguished contest, participants are summoned to embark on a journey of artistic expression, crafting enchanting storybook chapters that transcend the boundaries of imagination. Armed with design tools such as Canva, Illustrator, Photoshop, and other graphic design marvels, you are tasked with conjuring chapters that will be immortalized as PDFs, each graced with mesmerizing visuals and concise yet enthralling storylines.
+<a href="https://github.com/codeMacrocosm/Design-a-Thon-20/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=codeMacrocosm/Design-a-Thon-20" />
+</a>
 
-## Prepare to Unlock Your Creative Prowess 🎨📖
+</div>
 
-Are you ready to breathe life into your imagination, to narrate tales that resonate with hearts and minds alike? Join us in this prestigious endeavor, hosted by  Shreya Malogi, as we celebrate the art of storytelling through design.
+### Table of Contents 📚
 
-## Unleash Your Artistry 🚀💡
+1. [Overview](#overview)
+2. [How to Contribute?](#how-to-contribute)
+3. [Participants and Chapters](#participants-and-chapters-)
+4. [Star it](#how-to-star-)
+5. [License](#-license)
+6. [Thanks Contributors](#contributors-)
 
-This is more than just a contest; it is an ode to creativity, an opportunity to showcase your talent on a grand stage. Will you rise to the challenge and create chapters that captivate, inspire, and leave an indelible mark?
+## Overview
 
-## The Stage Is Set, Let the Storytelling Begin 🌠📝
+Welcome to Design-a-Thon, hosted by **Shreya Malogi**! Unleash your creativity in a unique contest blending design and storytelling. 🌟 Participants craft imaginative storybook chapters using tools like Canva and Photoshop, creating PDFs with captivating visuals and enthralling tales. 🚀💡🌌🖌️
 
-May your pixels dance, your colors sing, and your stories enchant. The world is your canvas; paint your narratives and let them illuminate the imagination. The journey awaits, dear designers. Create magic. 🌌🖌️
-
-Join the Creative Odyssey Today! 🌟🎨
-
-## Why Participate?** 🤩
-
-- Showcase your design skills and storytelling abilities.
-- Collaborate with fellow designers and share your creative vision. 🤝🎨
-- Get a chance to turn your imagination into a stunning visual narrative. 🌈
-- Have fun and be part of a creative community. 🎉
-
-## How to Contribute?** 🎨
+## How to Contribute?
 
 1. Fork this repository.
 2. Use design tools like Illustrator, Photoshop, Canva or others to create your chapter as a PDF.
@@ -42,12 +51,6 @@ Join the Creative Odyssey Today! 🌟🎨
 4. Commit your changes 
 5. Push your changes to GitHub.
 6. Create a Pull Request (PR) to submit your contribution.
-
-## Contest Rules** 📜
-
-- Your chapter should be in PDF format. 📄
-- Create a visually engaging and creative story. 🖼️
-- Keep your chapter content suitable for all audiences. 👨‍👩‍👧‍👦
 
 
 ## Participants and Chapters 🎭
@@ -57,20 +60,24 @@ Join the Creative Odyssey Today! 🌟🎨
 - Shreya Malogi: ["🌊 Enchanting Seaside Escapades: A Day by the Magical Sea 🏖️"](https://github.com/CodeMacrocosm/Designathon-20/blob/master/chapter%203.pdf)
 - Shruthi Kotawar: ["🚗The Twin's Zoo Adventure: A Day Full of Excitement and Songs 🐘"](https://github.com/CodeMacrocosm/Designathon-20/blob/master/chapter%204.pdf)
 
-##  License 📄🌐
+### How to Star ⭐
 
-This project is licensed under the MIT License - see the LICENSE file for all the magical details. 📜✨
+If you enjoyed this repo or find them inspiring, don't forget to ⭐ the repository! Your support is appreciated.
+
+### 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 📜
 
 MIT License
 
 Copyright (c) 2020 CodeMacrocosm
 
 
-## Star This Repository🌟⭐
+### Contributors 🙌
 
-Show your love and support by starring ⭐ this repository. Let's make it shine bright!
+A big thanks to all the creative minds who have contributed.
 
-Prepare to embark on a journey where words take flight and creativity knows no bounds! 🌟🚀📖
+Now, let the creation begin! Happy coding! 🎨✨
 
 
 ## Let's Design and Create!** 🌈
