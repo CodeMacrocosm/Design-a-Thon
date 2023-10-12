@@ -2,15 +2,15 @@
 
 <div align="center">
 
-# 🎨 Design-a-Thon' 20 ✨: Unleash Your Creativity! 🚀
+# 🎨 Design-a-Thon' 20 ✨: Craft Creativity! 🚀
 
 </div>
 <p align="center">
   <a href="https://github.com/CodeMacrocosm/Design-a-Thon-20/stargazers">
     <img src="https://img.shields.io/github/stars/CodeMacrocosm/Design-a-Thon-20?style=flat-square" alt="GitHub stars">
   </a>
-  <a href="https://github.com/CodeMacrocosm/Design-a-Thon-20/network">
-    <img src="https://img.shields.io/github/forks/CodeMacrocosm/Design-a-Thon-20?style=flat-square" alt="GitHub forks">
+  <a href="https://github.com/codemacrocosm/Design-a-Thon-20/network">
+    <img src="https://img.shields.io/github/forks/codemacrocosm/Design-a-Thon-20?style=flat-square" alt="GitHub forks">
   </a>
   <a href="https://github.com/codemacrocosm/Design-a-Thon-20/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/codemacrocosm/Design-a-Thon-20.svg" alt="GitHub contributors">
