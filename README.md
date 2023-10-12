@@ -9,11 +9,11 @@
   <a href="https://github.com/CodeMacrocosm/Design-a-Thon-20/stargazers">
     <img src="https://img.shields.io/github/stars/CodeMacrocosm/Design-a-Thon-20?style=flat-square" alt="GitHub stars">
   </a>
-  <a href="https://github.com/codemacrocosm/Design-a-Thon-20/network">
-    <img src="https://img.shields.io/github/forks/codemacrocosm/Design-a-Thon-20?style=flat-square" alt="GitHub forks">
+  <a href="https://github.com/srujana-55/Storybook/network">
+    <img src="https://img.shields.io/github/forks/srujana-55/Storybook?style=flat-square" alt="GitHub forks">
   </a>
-  <a href="https://github.com/codemacrocosm/Design-a-Thon-20/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/codemacrocosm/Design-a-Thon-20.svg" alt="GitHub contributors">
+  <a href="https://github.com/codeMacrocosm/Design-a-Thon-20/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/codeMacrocosm/Design-a-Thon-20.svg" alt="GitHub contributors">
   </a>
   <img src="https://img.shields.io/github/license/CodeMacrocosm/Design-a-Thon-20" alt="GitHub">
 </p>
