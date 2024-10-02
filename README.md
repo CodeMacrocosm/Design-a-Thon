@@ -6,16 +6,16 @@
 
 </div>
 <p align="center">
-  <a href="https://github.com/CodeMacrocosm/Design-a-Thon-20/stargazers">
-    <img src="https://img.shields.io/github/stars/CodeMacrocosm/Design-a-Thon-20?style=flat-square" alt="GitHub stars">
+  <a href="https://github.com/CodeMacrocosm/Design-a-Thon/stargazers">
+    <img src="https://img.shields.io/github/stars/CodeMacrocosm/Design-a-Thon?style=flat-square" alt="GitHub stars">
   </a>
   <a href="https://github.com/srujana-55/Storybook/network">
     <img src="https://img.shields.io/github/forks/srujana-55/Storybook?style=flat-square" alt="GitHub forks">
   </a>
-  <a href="https://github.com/codeMacrocosm/Design-a-Thon-20/graphs/contributors">
+  <a href="https://github.com/codeMacrocosm/Design-a-Thon/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/codeMacrocosm/Design-a-Thon-20.svg" alt="GitHub contributors">
   </a>
-  <img src="https://img.shields.io/github/license/CodeMacrocosm/Design-a-Thon-20" alt="GitHub">
+  <img src="https://img.shields.io/github/license/CodeMacrocosm/Design-a-Thon" alt="GitHub">
 </p>
 
 <div align="center">
@@ -24,8 +24,8 @@
 
 Thanks goes to these amazing people for their contributions 🎉🎉🎉
 
-<a href="https://github.com/codeMacrocosm/Design-a-Thon-20/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=codeMacrocosm/Design-a-Thon-20" />
+<a href="https://github.com/codeMacrocosm/Design-a-Thon/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=codeMacrocosm/Design-a-Thon" />
 </a>
 
 </div>
