@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🎨 Design-a-Thon' 20 ✨: Craft Creativity! 🚀
+# 🎨 Design-a-Thon' 20 ✨: Craft Creativity! 
 
 </div>
 <p align="center">
